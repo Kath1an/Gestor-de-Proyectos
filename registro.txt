@@ -1,0 +1,3 @@
+Geovanny,Reascos,1719125021,impacta.boutique@gmail.com,$2b$12$PfVqBSHiJJwYvozs195Mu.aoniWTjMI7xvvwEBIAzv06kckHBpM46,Administrador
+Cristhian,Marquez,1751486364,cristhianmarquez72@gmail.com,$2b$12$D5QIaWpaUONR0twGzFtFoOSNw4nanZRgYxXWolaIu3wm.zrb9K5ta,Administrador
+Maximiliano,Guerron,1719312546,Mguerron40@gmail.com,$2b$12$7M2JBw0SHXwqJ5BiMIgLWebfT2Jxg673lV9OCMMSP9WzEuw9JF3qu,Administrador

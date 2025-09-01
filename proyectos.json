@@ -1,0 +1,16 @@
+[
+  {
+    "proyecto": "prueba",
+    "costo": "prueba",
+    "categoria": "prueba",
+    "descripcion": "prueba",
+    "materiales": "nada",
+    "fehceInicio": "01/09/2025",
+    "fechaFin": "01/09/2025",
+    "responsableProyecto": {
+      "cedula": "1751486331",
+      "nombre": "cristhian marquez"
+    },
+    "tareas": []
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "dsfgdsfg": {
+    "contador": 3,
+    "bloqueado": true,
+    "fecha_bloqueo": "2025-08-28T13:43:25.867580",
+    "ultimo_intento": "2025-08-28T13:43:25.867580"
+  },
+  "cristhianmarquez72@gmail.com": {
+    "contador": 0,
+    "bloqueado": false,
+    "fechaBloqueo": null,
+    "ultimoIntento": null
+  }
+}
